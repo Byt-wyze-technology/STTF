@@ -1,0 +1,2 @@
+rev_elim_expr 8 = NOT(7)
+rev_elim 4 = false

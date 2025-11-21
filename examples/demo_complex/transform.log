@@ -1,0 +1,6 @@
+1 var_subst 8 = NOT(7)
+2 clause_remove 5 substitution
+3 clause_remove 8 substitution
+4 var_elim 4 pure_literal
+5 clause_remove 2 pure_literal_clause
+6 clause_strengthen 6 [-5 6]
