@@ -1,1 +1,17 @@
-
+{
+  "version": "1.0",
+  "generator": {
+    "tool": "simple_example",
+    "version": "1.0"
+  },
+  "timestamp": "2025-11-21T16:41:56.849774Z",
+  "original": {
+    "variables": 4,
+    "clauses": 4
+  },
+  "simplified": {
+    "variables": 5,
+    "clauses": 3
+  },
+  "transformation_steps": 3
+}
