@@ -426,4 +426,4 @@ For questions about STTF or this implementation:
 
 ---
 
-**STTF v1.0** - Deterministic APIs for Hard Problems
+**STTF v1.0** - Byt-Wyze 2025
