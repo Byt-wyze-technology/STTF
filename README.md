@@ -4,6 +4,8 @@
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
 ![DIMACS](https://img.shields.io/badge/CNF-DIMACS%20Standard-blue)
 ![Reproducible](https://img.shields.io/badge/Reproducible-Yes-2ea44f)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 # SAT Transformation Trace Format (STTF) v1.0
 
