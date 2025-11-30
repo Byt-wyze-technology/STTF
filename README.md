@@ -5,7 +5,6 @@
 ![DIMACS](https://img.shields.io/badge/CNF-DIMACS%20Standard-blue)
 ![Reproducible](https://img.shields.io/badge/Reproducible-Yes-2ea44f)
 
-# SAT Transformation Trace Format (STTF) v1.0
 
 A universal, deterministic standard for recording SAT CNF transformations and reconstructing models.
 
